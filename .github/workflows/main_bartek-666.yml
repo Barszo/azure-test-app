@@ -57,4 +57,4 @@ jobs:
           app-name: 'bartek-666'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F21EFA4677C4AC29EF58EB25DC32B8D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDEFA3D4F7554678BACD065DF9B15A49 }}
